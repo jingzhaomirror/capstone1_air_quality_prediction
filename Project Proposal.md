@@ -17,25 +17,26 @@ PM2.5 data will be acquired from UCI Repository at https://archive.ics.uci.edu/m
 
 ## Approach
 Our approach is outlined below (subject to changes and updates):
-1. Data wrangling: 
+1) Data wrangling: 
   data acquisition from excels files;
   clean up missing data and outliers;
   incorporate additional data from the second dataset.
-2. Exploratory data analysis:
+2) Exploratory data analysis:
   verify data consistency by examining data collected at various locations for each city; 
   use statistical EDA and visual EDA to identify daily, weekly, seasonal, and yearly trends of PM2.5;
   use inferential statistics an visual EDA to identify the correlation between PM2.5 and weather conditions, rank the weather parameters accordingly;
   use statistical EDA and visual EDA to run cross-city comparisons on PM2.5.
-3. Machine learning modeling:
-  Model the correlation between PM2.5 and weather data based on data from 2010-2014, and use the model to predict year 2015;
-  Model the correlation between PM2.5 and weather data based on data from four cities, and use the model to predict the fifth city; 
-  Improve the model according to the insights from 1) and 2). Take into consideration the demographic characteristics when necessary.
-4. Visualization, summary and outlook:
-  Visualize important trends and findings using matplotlib and Seaborn;
-  Compile all approaches and findings into report, slides and code package, upload to Github repo;
-  Specify the limitation and future improvement directions for the model.
+3) Machine learning modeling:
+  model the correlation between PM2.5 and weather data based on data from 2010-2014, and use the model to predict year 2015;
+  model the correlation between PM2.5 and weather data based on data from four cities, and use the model to predict the fifth city; 
+  improve the model according to the insights from 1) and 2). Take into consideration the demographic characteristics when necessary.
+4) Visualization, summary and outlook:
+  visualize important trends and findings using matplotlib and Seaborn;
+  compile all approaches and findings into report, slides and code package, upload to Github repo;
+  specify the limitation and future improvement directions for the model.
 
-## Deliverables
-  A report on the project;
-  A slide deck on the project;
-  Source codes on data acquisition, data wrangling, exploratory data analysis and machine learning model build.
+## Deliverable
+The deliverables include:
+  1) a report on the project;
+  2) a slide deck on the project;
+  3) source codes on data acquisition, data wrangling, exploratory data analysis and machine learning model build.
