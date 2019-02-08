@@ -14,7 +14,7 @@ Correlates with meteorological weather data to some extent: both high winds and 
 
 Modeling and predicting air quality (PM2.5) is a complex problem, as there are many underlying factors all playing an role in shaping PM2.5. As revealed, both historical values, datetime and various weather conditions all have impacts on future PM2.5 values. As the winning model suggests, historical value is crucial in setting the baseline of the next step, and various meteorological weather conditions as well as datetime features determines how PM2.5 value in the next step deviates from its previous step. The optimized model not only forecasts into the future, but also extends to predict an unseen city, achieving  R2R2  of 0.94 and MSE of 253 (RMSE of 16). In comparison, the average PM2.5 of the dataset is 73.9 ± 68.8.
 
-<img src="figures/collage.png" height="500" width="700">
+<img src="figures/collage.png" height="400" width="850">
 
 ## Further Readings
 Link to the full report: https://github.com/jingzhaomirror/capstone1_air_quality_prediction/blob/master/final_report.ipynb
