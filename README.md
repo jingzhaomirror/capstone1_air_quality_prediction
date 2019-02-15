@@ -10,7 +10,7 @@ Alters siginificantly among cities: air quality rankings from the best to the wo
 Varies systematically with hour of the day, month of the year and from year to year: daily and monthly trends are unique for individual cities, whereas yearly trend from 2010 to 2015 shows a consistent improvement in all cities, but the improvement is only moderate.<br>
 Correlates with meteorological weather data to some extent: both high winds and large precipitations help to improve air quality in all cities; wind direction also affect air quality, but the impact differs by city, as determined by city location and neighbour environment; air quality are positively correlated to temperature and dew point, but negatively correlated to pressure and humidity.<br>
 
-### Click [here](https://public.tableau.com/shared/7Q29PWRZD?:display_count=yes) for an interactive Visualization of *PM2.5 by city* in **Tableau**
+### Click [here](https://public.tableau.com/profile/jing.zhao4384#!/vizhome/airqualitybycity/Dashboard1?publish=yes) for an interactive visualization of *'PM2.5 by city'* in **Tableau**
 
 ### * Modeling PM2.5
 
