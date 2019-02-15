@@ -19,7 +19,7 @@ Modeling and predicting air quality (PM2.5) is a complex problem, as there are m
 <img src="figures/collage.png" height="500" width="900">
 
 ## Further Readings
-Link to the full report: https://github.com/jingzhaomirror/capstone1_air_quality_prediction/blob/master/final_report.ipynb
+Link to the full report: https://github.com/jingzhaomirror/capstone1_air_quality_prediction/blob/master/final_report_github.ipynb
 <br>
 Link to the ppt slide deck: https://github.com/jingzhaomirror/capstone1_air_quality_prediction/blob/master/slide_deck.pdf
 <br>
