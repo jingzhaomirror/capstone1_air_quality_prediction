@@ -20,6 +20,8 @@ Modeling and predicting air quality (PM2.5) is a complex problem, as there are m
 
 <script type='text/javascript'>                    var divElement = document.getElementById('viz1550266963797');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
 
+<img src='https://public.tableau.com/shared/7Q29PWRZD?:display_count=yes'>
+
 ## Further Readings
 Link to the full report: https://github.com/jingzhaomirror/capstone1_air_quality_prediction/blob/master/final_report.ipynb
 <br>
